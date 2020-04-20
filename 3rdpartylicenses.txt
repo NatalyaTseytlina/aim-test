@@ -40,6 +40,9 @@ MIT
 @angular/router
 MIT
 
+@angular/service-worker
+MIT
+
 angular-l10n
 MIT
 The MIT License (MIT)

@@ -1,0 +1,122 @@
+{
+  "configVersion": 1,
+  "timestamp": 1587388483636,
+  "index": "https://natalyatseytlina.github.io/aim-test/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://natalyatseytlina.github.io/aim-test/assets/favicon/favicon.ico",
+        "https://natalyatseytlina.github.io/aim-test/index.html",
+        "https://natalyatseytlina.github.io/aim-test/main-es2015.47f2951443067650eb42.js",
+        "https://natalyatseytlina.github.io/aim-test/main-es5.47f2951443067650eb42.js",
+        "https://natalyatseytlina.github.io/aim-test/manifest.webmanifest",
+        "https://natalyatseytlina.github.io/aim-test/polyfills-es2015.5b10b8fd823b6392f1fd.js",
+        "https://natalyatseytlina.github.io/aim-test/polyfills-es5.3e8196928d184a6e5319.js",
+        "https://natalyatseytlina.github.io/aim-test/runtime-es2015.c5fa8325f89fc516600b.js",
+        "https://natalyatseytlina.github.io/aim-test/runtime-es5.c5fa8325f89fc516600b.js",
+        "https://natalyatseytlina.github.io/aim-test/styles.3db4c8ba608ec03424ab.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://natalyatseytlina.github.io/aim-test/Union.298f2835d27191bfeeda.png",
+        "https://natalyatseytlina.github.io/aim-test/Vector.895875c89c5563492ce8.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/documents/privacy_policy.pdf",
+        "https://natalyatseytlina.github.io/aim-test/assets/documents/user_agreement.pdf",
+        "https://natalyatseytlina.github.io/aim-test/assets/favicon/android-chrome-192x192.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/favicon/android-chrome-512x512.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/favicon/apple-touch-icon.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/favicon/favicon-16x16.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/favicon/favicon-32x32.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/favicon/mstile-144x144.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/favicon/mstile-150x150.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/favicon/mstile-310x150.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/favicon/mstile-310x310.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/favicon/mstile-70x70.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/favicon/safari-pinned-tab.svg",
+        "https://natalyatseytlina.github.io/aim-test/assets/image/App-Development.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/image/Digital-Design.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/image/SEO-Social-Media.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/image/Union.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/image/Vector.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/image/projects/beproducer.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/image/projects/icoconstructor.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/image/projects/rmc.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/image/projects/whosner.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/image/skills/mobile.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/image/skills/other.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/image/skills/server.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/image/skills/web.png",
+        "https://natalyatseytlina.github.io/aim-test/assets/locale/locale-ru.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://natalyatseytlina.github.io/aim-test/Union.298f2835d27191bfeeda.png": "1981fee540afb26509c2bf2169359b9c351920c3",
+    "https://natalyatseytlina.github.io/aim-test/Vector.895875c89c5563492ce8.png": "b3e5bd2cc8bea03f9ca2ee456174750935e9bb93",
+    "https://natalyatseytlina.github.io/aim-test/assets/documents/privacy_policy.pdf": "25b55f2d25cea5e99b404fc1da43e61212499904",
+    "https://natalyatseytlina.github.io/aim-test/assets/documents/user_agreement.pdf": "6aef877239e360287428f382505c88a20aef94ef",
+    "https://natalyatseytlina.github.io/aim-test/assets/favicon/android-chrome-192x192.png": "ce293258ccc58a54031ca9e08c8621b7a7c79391",
+    "https://natalyatseytlina.github.io/aim-test/assets/favicon/android-chrome-512x512.png": "69755c5177b52658fbc67853c7751197fd2c3a91",
+    "https://natalyatseytlina.github.io/aim-test/assets/favicon/apple-touch-icon.png": "141803b0ef54b67401711324111f722b11bb1136",
+    "https://natalyatseytlina.github.io/aim-test/assets/favicon/favicon-16x16.png": "6d9279d20a521f10d516df7f8e4e06cb7246fa90",
+    "https://natalyatseytlina.github.io/aim-test/assets/favicon/favicon-32x32.png": "9c9c00b99b8072b51f5af2ce101a22a39abec3da",
+    "https://natalyatseytlina.github.io/aim-test/assets/favicon/favicon.ico": "3922893c1883b03dbad74419c960600feb5a37b3",
+    "https://natalyatseytlina.github.io/aim-test/assets/favicon/mstile-144x144.png": "4998cc8a34a040e2f7de030b66f9eb93b8bf2f81",
+    "https://natalyatseytlina.github.io/aim-test/assets/favicon/mstile-150x150.png": "034d097741ee005a5d6f83b0487c356a48b1e0d4",
+    "https://natalyatseytlina.github.io/aim-test/assets/favicon/mstile-310x150.png": "c169e063e55da16d9fb060053ca9835bcf3dc112",
+    "https://natalyatseytlina.github.io/aim-test/assets/favicon/mstile-310x310.png": "503b2de35624d188a83884154f1430f060a4ff31",
+    "https://natalyatseytlina.github.io/aim-test/assets/favicon/mstile-70x70.png": "c9a0302ca5ca05994e7ede2691906afc4b5de6c1",
+    "https://natalyatseytlina.github.io/aim-test/assets/favicon/safari-pinned-tab.svg": "33aa182856a8da90ef3f2a8eeb733b5ce950b24f",
+    "https://natalyatseytlina.github.io/aim-test/assets/image/App-Development.png": "7d191a51896bca6c170c3faae9ca58ea4c644e81",
+    "https://natalyatseytlina.github.io/aim-test/assets/image/Digital-Design.png": "84483419487cb67e17da6d3dd3547fdd6c5156fa",
+    "https://natalyatseytlina.github.io/aim-test/assets/image/SEO-Social-Media.png": "b1cd79d2cc1cceede635c241ab8f6d3e95961f57",
+    "https://natalyatseytlina.github.io/aim-test/assets/image/Union.png": "1981fee540afb26509c2bf2169359b9c351920c3",
+    "https://natalyatseytlina.github.io/aim-test/assets/image/Vector.png": "b3e5bd2cc8bea03f9ca2ee456174750935e9bb93",
+    "https://natalyatseytlina.github.io/aim-test/assets/image/projects/beproducer.png": "eb6fa9a39b8860dbb929346db65249052248e1b1",
+    "https://natalyatseytlina.github.io/aim-test/assets/image/projects/icoconstructor.png": "ab760a064fd494c3f3718dffe6cb3deca6c63478",
+    "https://natalyatseytlina.github.io/aim-test/assets/image/projects/rmc.png": "dea66c95977db083ab19c2626fc2373c4ff1daab",
+    "https://natalyatseytlina.github.io/aim-test/assets/image/projects/whosner.png": "c299795d05b00fc0bd8a8eff870f507b53efabcd",
+    "https://natalyatseytlina.github.io/aim-test/assets/image/skills/mobile.png": "35b5afadc879baccee50d7a920c22f317d7d74a7",
+    "https://natalyatseytlina.github.io/aim-test/assets/image/skills/other.png": "300a4277c70f3aa0139494b5dbfef2399c0bede9",
+    "https://natalyatseytlina.github.io/aim-test/assets/image/skills/server.png": "fabcaa4f88ab376248e0d2da345bc433d9db2507",
+    "https://natalyatseytlina.github.io/aim-test/assets/image/skills/web.png": "a93a697d056a4bc0184058bca9668b2aa2daaac3",
+    "https://natalyatseytlina.github.io/aim-test/assets/locale/locale-ru.json": "f6eb78d0652f5039b209fbdf76640998245d7dfa",
+    "https://natalyatseytlina.github.io/aim-test/index.html": "352789551a12a609750c1a6cafbbd8148b57cfe9",
+    "https://natalyatseytlina.github.io/aim-test/main-es2015.47f2951443067650eb42.js": "e4f9937ce582742cbaa9b266191b9fd4d7405bf6",
+    "https://natalyatseytlina.github.io/aim-test/main-es5.47f2951443067650eb42.js": "c2f4dd38476035256bb91babe13b0c5df8128628",
+    "https://natalyatseytlina.github.io/aim-test/manifest.webmanifest": "7e1d51e9317fe7a6a70c318da63213854c87cdc7",
+    "https://natalyatseytlina.github.io/aim-test/polyfills-es2015.5b10b8fd823b6392f1fd.js": "9abfe15f17820a646e3d51c420908d9f8f7b69b8",
+    "https://natalyatseytlina.github.io/aim-test/polyfills-es5.3e8196928d184a6e5319.js": "a09a6044f37c73c715665663d2dcb61f666618a1",
+    "https://natalyatseytlina.github.io/aim-test/runtime-es2015.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://natalyatseytlina.github.io/aim-test/runtime-es5.c5fa8325f89fc516600b.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://natalyatseytlina.github.io/aim-test/styles.3db4c8ba608ec03424ab.css": "d691eb0e425a0f4479e50b7d4b7e76bda007436a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
